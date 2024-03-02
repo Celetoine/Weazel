@@ -1,0 +1,10 @@
+Pour afficher l'overlay :
+- 1 : Ajouter une source en navigateur web en cochant "fichier local" puis selectionner le fichier "overlaywn" et regler la largeur sur 1920 et la hauteur sur 1080 (vous pouvez le resize apres)
+- 2 : faire la meme chose pour wnheure
+
+
+Pour changer le texte il suffit d'ouvrir le fichier "overlaywn" avec bloc note (clic droit -> ouvrir avec)
+A ce moment il suffit de changer le texte "Le texte a modifier" tout en bas
+Sauvegarder et sur OBS une fois la source selectionner -> actualiser
+
+Et voila c'est fini
